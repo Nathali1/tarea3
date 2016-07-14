@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TareaWebView</string>
+    <string name="soltero">Soltero</string>
+    <string name="casado">Casado</string>
+    <string name="divorciado">Divorciado</string>
+    <string name="estado">Estado Civil</string>
+</resources>
